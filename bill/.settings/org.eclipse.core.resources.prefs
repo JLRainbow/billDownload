@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/com/bill/util/CommonUtil.java=UTF-8
+encoding//src/com/bill/util/ConfigUtil.java=UTF-8
+encoding//src/com/bill/util/MD5Util.java=UTF-8
+encoding//src/com/bill/util/MyX509TrustManager.java=UTF-8
+encoding//src/com/bill/util/WXPayCommonUtil.java=UTF-8
+encoding//src/com/bill/util/XMLUtil.java=UTF-8
+encoding//src/com/bill/wx/WXBillDownload.java=GBK
+encoding/<project>=GBK
